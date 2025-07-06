@@ -1,0 +1,1 @@
+/home/stefano/advent-of-code/2015/Day\ 2\ I\ Was\ Told\ There\ Would\ Be\ No\ Math\ |\ Part\ Two/target/debug/four: /home/stefano/advent-of-code/2015/Day\ 2\ I\ Was\ Told\ There\ Would\ Be\ No\ Math\ |\ Part\ Two/src/main.rs
