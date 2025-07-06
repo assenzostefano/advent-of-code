@@ -3,5 +3,9 @@
 2015/one/Cargo.lock
 
 2015/two/debug
-2015/two/target/
+2015/two/target
 2015/two/Cargo.lock
+
+2015/three/debug
+2015/three/target
+2015/three/Cargo.lock
