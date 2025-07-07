@@ -1,0 +1,1 @@
+/home/stefano/advent-of-code/2015/Day\ 3\ Perfectly\ Spherical\ Houses\ in\ a\ Vaccum\ |\ Part\ one/target/debug/one: /home/stefano/advent-of-code/2015/Day\ 3\ Perfectly\ Spherical\ Houses\ in\ a\ Vaccum\ |\ Part\ one/src/main.rs
